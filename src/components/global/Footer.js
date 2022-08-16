@@ -64,21 +64,21 @@ function Footer() {
             </li>
           </ul>
 
-          <ul role="list" class="fs-300">
+          <ul role="list" class="">
             <li class="footer-nav-item">
               <a href="#" class="footer-menu-link">
                 Careers
               </a>
-              <li class="footer-nav-item">
-                <a href="#" class="footer-menu-link">
-                  Support
-                </a>
-              </li>
-              <li class="footer-nav-item">
-                <a href="#" class="footer-menu-link">
-                  Privacy Policy
-                </a>
-              </li>
+            </li>
+            <li class="footer-nav-item">
+              <a href="#" class="footer-menu-link">
+                Support
+              </a>
+            </li>
+            <li class="footer-nav-item">
+              <a href="#" class="footer-menu-link">
+                Privacy Policy
+              </a>
             </li>
           </ul>
         </nav>

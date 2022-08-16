@@ -31,20 +31,20 @@ function ValueProps() {
 
           <div class="value-prop">
             <img
-              src="images/icon-online.svg"
+              src="images/icon-budgeting.svg"
               class="value-prop-image"
               alt=""
             />
             <h4 class="fs-400 fw-light text-accent">Simple Budgeting</h4>
             <p class="text-primary fs-300">
-              See exactly where your mone) goes each month. Receive
+              See exactly where your money goes each month. Receive
               notifications when vou re close to hitting your limits.
             </p>
           </div>
 
           <div class="value-prop">
             <img
-              src="images/icon-online.svg"
+              src="images/icon-onboarding.svg"
               class="value-prop-image"
               alt=""
             />
@@ -57,7 +57,7 @@ function ValueProps() {
 
           <div class="value-prop">
             <img
-              src="images/icon-online.svg"
+              src="images/icon-api.svg"
               class="value-prop-image"
               alt=""
             />
